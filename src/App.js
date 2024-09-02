@@ -6,7 +6,7 @@ import ProductList from './components/productList.js';
 function App() {
   return (
     <div className="App">
-      <h1>APP</h1>
+      <h1>PRODUCTS-APP</h1>
       <Header/>
       <ProductList/>
     </div>
