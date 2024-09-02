@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    margin: 20px;
+    border: none;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+}
+
+.img-cont {
+    padding: 10px;
+}
+
+.cont-cont {
+    padding: 20px;
+    text-align: left;
+}
